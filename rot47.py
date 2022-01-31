@@ -1,3 +1,6 @@
+# Bryner Amparo 2020-10415
+# Fundamentos de Criptografia
+
 def rot47_cipher(text_to_cypher):
     ciphered_text = []
     for character in range(len(text_to_cypher)):
